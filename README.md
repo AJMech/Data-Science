@@ -9,7 +9,7 @@ As and when I conduct any data science related work/study/projects, I will share
 
 
 ## Table of Contents
-- [Introduction](https://github.com/AJMech/Data-Science/blob/main/README.md#introduction)
+
 - [Projects](https://github.com/AJMech/Data-Science/blob/main/README.md#projects)
     - [Analyzing wealth of the richest people](https://github.com/AJMech/Data-Science#Analyzing-wealth-of-the-richest-people)
     
