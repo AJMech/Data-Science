@@ -5,14 +5,14 @@
 Hello! My name is Asif. I have a background in mechanical engineering and I am studying Data Science. 
 My prior experience is in mechanical design, technical support, operations, maintenance and project management.
 
-As and when I conduct any data science related work/study/project, I will share it here. Please feel free to look around!
+As and when I conduct any data science related work/study/projects, I will share it here. Please feel free to look around!
 
 
 ## Table of Contents
 - [Introduction](https://github.com/AJMech/Data-Science/blob/main/README.md#introduction)
 - [Projects](https://github.com/AJMech/Data-Science/blob/main/README.md#projects)
   - Python
-    - [Analyzing wealth of the richest people](https://github.com/AJMech/Data-Science#Analyzing%wealth%of%the%richest%people)
+    - [Analyzing wealth of the richest people](https://github.com/AJMech/Data-Science#Analyzing-wealth-of-the-richest-people)
     
 - [Contact](https://github.com/AJMech/Data-Science/blob/main/README.md#contact)
 ## Projects
