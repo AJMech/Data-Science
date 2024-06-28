@@ -12,13 +12,13 @@ As and when I conduct any data science related work/study/project, I will share 
 - [Introduction](https://github.com/AJMech/Data-Science/blob/main/README.md#introduction)
 - [Projects](https://github.com/AJMech/Data-Science/blob/main/README.md#projects)
   - Python
-    - [Analyzing the world's richest people's wealth](https://github.com/AJMech/Data-Science#Analyzing the world's richest people's wealth)
+    - [Analyzing the world's richest people's wealth](https://github.com/AJMech/Data-Science#Analyzing%wealth%of%the%richest%people)
     
 - [Contact](https://github.com/AJMech/Data-Science/blob/main/README.md#contact)
 ## Projects
 Here I will provide a brief introduction of each individual project.
 
-### Analyzing the world's richest people's wealth
+### Analyzing wealth of the richest people
 **File (ipynb):** [`RichPeople.ipynb`](https://github.com/AJMech/Projects/blob/main/RichPeople.ipynb)
 
 **Objective:** Analyze the wealth of richest people
