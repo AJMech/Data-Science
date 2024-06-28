@@ -19,7 +19,7 @@ As and when I conduct any data science related work/study/project, I will share 
 Here I will provide a brief introduction of each individual project.
 
 ### Analyzing the world's richest people's wealth
-**File (ipynb):** [`RichPeople.ipynb`](https://github.com/AJMech/Data-Science/blob/main/RichPeople.ipynb)
+**File (ipynb):** [`RichPeople.ipynb`](https://github.com/AJMech/Projects/blob/main/RichPeople.ipynb)
 
 **Objective:** Analyze the wealth of richest people
 
