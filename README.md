@@ -12,7 +12,7 @@ As and when I conduct any data science related work/study/project, I will share 
 - [Introduction](https://github.com/AJMech/Data-Science/blob/main/README.md#introduction)
 - [Projects](https://github.com/AJMech/Data-Science/blob/main/README.md#projects)
   - Python
-    - [Analyzing the world's richest people's wealth](https://github.com/AJMech/Data-Science#Analyzing%wealth%of%the%richest%people)
+    - [Analyzing wealth of the richest people](https://github.com/AJMech/Data-Science#Analyzing%wealth%of%the%richest%people)
     
 - [Contact](https://github.com/AJMech/Data-Science/blob/main/README.md#contact)
 ## Projects
