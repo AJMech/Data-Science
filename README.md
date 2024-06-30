@@ -15,6 +15,9 @@ As and when I conduct any data science related work/study/projects, I will share
     - [Analyzing global median age growth (Python)](https://github.com/AJMech/Data-Science#Analyzing-global-median-age-growth)
     
 - [Contact](https://github.com/AJMech/Data-Science/blob/main/README.md#contact)
+
+-------------------------------------------------------
+
 ## Projects
 Here I will provide a brief introduction of each individual project. Please click on the respective links to see the code and analyis.
 
