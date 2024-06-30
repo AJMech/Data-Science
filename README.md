@@ -39,7 +39,7 @@ Here I will provide a brief introduction of each individual project. Please clic
 
 **Description:** Global median age data was scraped from Wikipedia using Python code. Link to data is available in the ipynb file. Scrapped data contains median age of all the countries and regions from 1950 to 2020. I have extracted different information from the data set and have added explanation of each line of code for anyone to see and learn from my work. Enjoy!
 
-**Skills:** Data cleaning, analysis and visualization using Python, Pandas, Numpy and Matplotlib.
+**Skills:** Data cleaning, analysis and visualization using Python, Pandas and Matplotlib
 
 -------------------------------------------------------
 
